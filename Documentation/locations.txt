@@ -1,0 +1,11 @@
+MHS In		3-10 4-10
+MHS Out		3-11
+
+Supertram In	N2-18 N1-18
+Supertram Out	N2-18
+
+Doncaster In	111-18 110-18
+Doncaster Out	111-17
+
+Leeds In		133-11 132-11
+Leeds Out	133-10
