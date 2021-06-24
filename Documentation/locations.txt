@@ -1,11 +1,28 @@
-MHS In		3-10 4-10
-MHS Out		3-11
+MHS In            3-10 4-10
+MHS Out           3-11
 
-Supertram In	N2-18 N1-18
-Supertram Out	N2-18
+Supertram In      N2-18 N1-18
+Supertram Out     N2-18
 
-Doncaster In	111-18 110-18
-Doncaster Out	111-17
+Doncaster In      111-18 110-18
+Doncaster Out     111-17
 
-Leeds In		133-11 132-11
-Leeds Out	133-10
+Leeds In          133-11 132-11
+Leeds Out         133-10
+
+Ferrybridge In    161-16 160-16
+Ferrybridge Out   161-15
+
+Tata Steel In     60-9 59-9
+Tata Steel Out    60-9
+
+Sheffield In      N10-21 N9-21
+Sheffield Out     N10-21
+
+Chesterfield In   N5-31 N4-30
+Chesterfield Out  N5-31
+
+Tinsley Yard In   1-25 0-25
+Tinsley Yard Out  1-25
+
+Masborough Sorting Sidings Out   11-32
