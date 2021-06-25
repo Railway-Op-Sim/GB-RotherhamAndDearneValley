@@ -1,0 +1,11 @@
+Rotherham and Dearne Valley
+
+Although this is quite a compact section of Yorkshire's railways the traffic using it is quite heavy and very varied.  Frequent tram services operate between Rotherham Parkgate and Sheffield Cathedral, and both passenger and freight services having widely diverse sources and destinations use the routes, many working through Rotherham Central and many others bypassing it.
+
+The timetable is largely based on the 2021 summer working timetable with some adaptation using repeats to avoid too many individually defined services.  Data was sourced from the Real Time Trains site at realtimetrains.co.uk.
+
+The timetable begins just before 07:00am with a single tram waiting at Rotherham Parkgate, and runs until just after midnight.  To maintain proper timings care will be needed in interleaving services through Rotherham Central, and also through Aldwarke Junction.  Freight services incorporate plenty of slack time so these should be held back where there is any risk of delaying a passenger service.  Also to avoid delays it is advisable to route all trains that don't need to call at or are booked to pass Rotherham Central via the bypass lines, as Rotherham traffic is quite heavy for most of the time.  Freight services using the Doncaster route should avoid Swinton wherever possible, using the lines through Thrybergh Junction instead.
+
+This route is available for further enhancement on the GitHub development site at https://github.com/Railway-Op-Sim/UK-RotherhamAndDearneValley
+
+
