@@ -25,4 +25,5 @@ Chesterfield Out  N5-31
 Tinsley Yard In   1-25 0-25
 Tinsley Yard Out  1-25
 
-Masborough Sorting Sidings Out   11-32
+Masborough Sorting Sidings In   11-32 12-32
+Masborough Sorting Sidings Out  11-32
